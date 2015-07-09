@@ -49,3 +49,8 @@ pomExtra := (
         <url>https://github.com/marmbrus</url>
       </developer>
   </developers>)
+
+ScoverageSbtPlugin.ScoverageKeys.coverageHighlighting := {
+  if (scalaBinaryVersion.value == "2.10") false
+  else false
+}

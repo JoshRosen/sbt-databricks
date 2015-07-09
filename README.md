@@ -1,4 +1,4 @@
-sbt-databricks [![Build Status](https://travis-ci.org/databricks/sbt-databricks.svg)](http://travis-ci.org/databricks/sbt-databricks)
+sbt-databricks [![Build Status](https://travis-ci.org/databricks/sbt-databricks.svg)](http://travis-ci.org/databricks/sbt-databricks) [![codecov.io](http://codecov.io/github/databricks/sbt-databricks/coverage.svg?branch=master)](http://codecov.io/github/databricks/sbt-databricks?branch=master)
 --------------
 
 sbt plugin to deploy your projects to Databricks Cloud!
